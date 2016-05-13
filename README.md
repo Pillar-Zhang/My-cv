@@ -2,7 +2,7 @@
 
 #### Web Front-End Engineer
 
-![](http://7xsgf8.com1.z0.glb.clouddn.com/image/Web%20Front-End%20xiaodong%20Zhang.jpg)
+![](http://7xsgf8.com1.z0.glb.clouddn.com/Web%20Front-End%20xiaodong%20Zhang.webp)
 
 Designed and Implemented by XiaoDong Zhang
 
